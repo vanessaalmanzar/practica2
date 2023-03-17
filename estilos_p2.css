@@ -1,0 +1,46 @@
+body{
+	background-image: url(../imagenes/fondo.png); 
+	background-repeat: no-repeat; 
+	background-position: center;
+	background-attachment: fixed; 
+	background-size: cover;
+	background-color: #006400;
+	text-align: justify-all;
+}
+
+h1 {
+  background-color: #F0FFF0;
+  text-align: center;
+}
+
+div{
+  border: black 10px dotted;
+  margin: 20px;
+  padding: 20px;
+  background-color: #F0FFF0;
+  background-clip: padding-box;
+  text-align: justify-all;
+}
+
+li{
+	list-style-type: square;
+} 
+
+img{
+	width: 350px; 
+	height: 200px; 
+	float: right;
+}
+
+hr{
+	border: 0; 
+	border-top: 1px solid #999; 
+	border-bottom: 1px solid #333; 
+	height:0;
+} 
+
+.uno{
+	width: 400px; 
+	height: 270px; 
+	float: right;
+}
